@@ -1,3 +1,0 @@
-# SillyCuckooCTF
-#### CTF Tools
-
